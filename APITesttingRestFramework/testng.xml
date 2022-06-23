@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+		<listener class-name = "com.employee.utilities.Reporting" />
+</listeners>
+
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.employee.base.TestBase"/>
+      <class name="com.employee.testcases.TC001_GetEmployee"/>
+      <class name="com.employee.testcases.TC002_PostEmployee"/>
+      <class name="com.employee.testcases.TC003_PutEmployee"/>
+      <class name="com.employee.testcases.TC004_PostEmployee"/>
+      <class name="com.employee.testcases.TC005_PostEmployee"/>
+      <class name="com.employee.testcases.TC006_GetEmployee"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

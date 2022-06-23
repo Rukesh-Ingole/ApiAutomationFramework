@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="22" passed="22">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8837" started-at="2022-06-23T11:58:39Z" finished-at="2022-06-23T11:58:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8837" started-at="2022-06-23T11:58:39Z" finished-at="2022-06-23T11:58:48Z">
+      <class name="com.employee.testcases.TC002_PostEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="setUp" is-config="true" duration-ms="2" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PostEmplyee()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="PostEmplyee" is-config="true" duration-ms="505" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostEmplyee -->
+        <test-method status="PASS" signature="ChekAllHeaders()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="ChekAllHeaders" duration-ms="7" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChekAllHeaders -->
+        <test-method status="PASS" signature="checkParticularheader()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="checkParticularheader" duration-ms="5" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkParticularheader -->
+        <test-method status="PASS" signature="checkReponseBody()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="checkReponseBody" duration-ms="6" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkReponseBody -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="checkStatusCode" duration-ms="2" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="checkStatusLine()[pri:0, instance:com.employee.testcases.TC002_PostEmployee@3c0f93f1]" name="checkStatusLine" duration-ms="3" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusLine -->
+      </class> <!-- com.employee.testcases.TC002_PostEmployee -->
+      <class name="com.employee.testcases.TC001_GetEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="setUp" is-config="true" duration-ms="92" started-at="2022-06-23T11:58:40Z" finished-at="2022-06-23T11:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GetEmployee()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="GetEmployee" is-config="true" duration-ms="4432" started-at="2022-06-23T11:58:40Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployee -->
+        <test-method status="PASS" signature="checkParticularHeader()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="checkParticularHeader" duration-ms="19" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkParticularHeader -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="checkStatusCode" duration-ms="3" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="chekAllHeaders()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="chekAllHeaders" duration-ms="16" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chekAllHeaders -->
+        <test-method status="PASS" signature="chekStatusLine()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="chekStatusLine" duration-ms="3" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chekStatusLine -->
+        <test-method status="PASS" signature="resposBody()[pri:0, instance:com.employee.testcases.TC001_GetEmployee@2038ae61]" name="resposBody" duration-ms="52" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resposBody -->
+      </class> <!-- com.employee.testcases.TC001_GetEmployee -->
+      <class name="com.employee.testcases.TC005_PostEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC005_PostEmployee@31610302]" name="setUp" is-config="true" duration-ms="4" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postEmployee()[pri:0, instance:com.employee.testcases.TC005_PostEmployee@31610302]" name="postEmployee" duration-ms="1284" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postEmployee -->
+      </class> <!-- com.employee.testcases.TC005_PostEmployee -->
+      <class name="com.employee.testcases.TC004_PostEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="setUp" is-config="true" duration-ms="4" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="postEmployee()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="postEmployee" is-config="true" duration-ms="469" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postEmployee -->
+        <test-method status="PASS" signature="checkallHeaders()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="checkallHeaders" duration-ms="10" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkallHeaders -->
+        <test-method status="PASS" signature="particularHeaderCheck()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="particularHeaderCheck" duration-ms="3" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- particularHeaderCheck -->
+        <test-method status="PASS" signature="responseBody()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="responseBody" duration-ms="4" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseBody -->
+        <test-method status="PASS" signature="statusCode()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="statusCode" duration-ms="3" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCode -->
+        <test-method status="PASS" signature="statusLine()[pri:0, instance:com.employee.testcases.TC004_PostEmployee@544fe44c]" name="statusLine" duration-ms="2" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusLine -->
+      </class> <!-- com.employee.testcases.TC004_PostEmployee -->
+      <class name="com.employee.testcases.TC003_PutEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="setUp" is-config="true" duration-ms="3" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="putEmployee()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="putEmployee" is-config="true" duration-ms="446" started-at="2022-06-23T11:58:45Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putEmployee -->
+        <test-method status="PASS" signature="checkAllHeader()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="checkAllHeader" duration-ms="11" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAllHeader -->
+        <test-method status="PASS" signature="checkParticularHeader()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="checkParticularHeader" duration-ms="3" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkParticularHeader -->
+        <test-method status="PASS" signature="checkStatucode()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="checkStatucode" duration-ms="3" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatucode -->
+        <test-method status="PASS" signature="checkstatusLine()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="checkstatusLine" duration-ms="3" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkstatusLine -->
+        <test-method status="PASS" signature="responseBody()[pri:0, instance:com.employee.testcases.TC003_PutEmployee@31dc339b]" name="responseBody" duration-ms="4" started-at="2022-06-23T11:58:46Z" finished-at="2022-06-23T11:58:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- responseBody -->
+      </class> <!-- com.employee.testcases.TC003_PutEmployee -->
+      <class name="com.employee.testcases.TC006_GetEmployee">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.employee.testcases.TC006_GetEmployee@71318ec4]" name="setUp" is-config="true" duration-ms="3" started-at="2022-06-23T11:58:48Z" finished-at="2022-06-23T11:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="GetEmployee()[pri:0, instance:com.employee.testcases.TC006_GetEmployee@71318ec4]" name="GetEmployee" duration-ms="332" started-at="2022-06-23T11:58:48Z" finished-at="2022-06-23T11:58:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetEmployee -->
+      </class> <!-- com.employee.testcases.TC006_GetEmployee -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

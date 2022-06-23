@@ -1,0 +1,420 @@
+2022-06-23 11:02:01 INFO  Employee Rest API:25 - Status code is 200
+  2022-06-23 11:08:20 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - Thu, 23 Jun 2022 05:38:14 GMT===Date
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - application/json; charset=utf-8===Content-Type
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - chunked===Transfer-Encoding
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - keep-alive===Connection
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - Express===X-Powered-By
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - *===Access-Control-Allow-Origin
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"===Etag
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - 1.1 vegur===Via
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - max-age=14400===Cache-Control
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - HIT===CF-Cache-Status
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - 5474===Age
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"===Expect-CT
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=rM0cPUTw%2FONGylLcD8TVw096jFRH9lOvJWUWpiYceJv1PO5N6WyAMuXuF%2BhCITdewcmFnRFCx2LqrEUbuELU49rwfTMyXlaD7rdadZAbKP7nwN4zusal1zrpQg%3D%3D"}],"group":"cf-nel","max_age":604800}===Report-To
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - {"success_fraction":0,"report_to":"cf-nel","max_age":604800}===NEL
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - Accept-Encoding===Vary
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - cloudflare===Server
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - 71fae0594d51321e-BOM===CF-RAY
+  2022-06-23 11:08:20 INFO  Employee Rest API:39 - gzip===Content-Encoding
+  2022-06-23 11:08:20 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 11:08:20 INFO  Employee Rest API:45 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 11:14:18 INFO  Employee Rest API:51 - CLoudflare header is null
+  2022-06-23 11:14:18 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - Thu, 23 Jun 2022 05:44:12 GMT===Date
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - application/json; charset=utf-8===Content-Type
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - chunked===Transfer-Encoding
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - keep-alive===Connection
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - Express===X-Powered-By
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - *===Access-Control-Allow-Origin
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"===Etag
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - 1.1 vegur===Via
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - max-age=14400===Cache-Control
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - HIT===CF-Cache-Status
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - 109===Age
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"===Expect-CT
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Q9FD0828N3%2BJLeFwAa26JHToIGww7T75YNnB9s0EIWTOl3fkRmFbnxcQLSV9F5anJZYpAFukmXdVzKkWiwu2Be5EEDHfHukV0LKhZLsr75UwGGESRZ1mtelAjQ%3D%3D"}],"group":"cf-nel","max_age":604800}===Report-To
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - {"success_fraction":0,"report_to":"cf-nel","max_age":604800}===NEL
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - Accept-Encoding===Vary
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - cloudflare===Server
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - 71fae913282d84b3-BOM===CF-RAY
+  2022-06-23 11:14:18 INFO  Employee Rest API:39 - gzip===Content-Encoding
+  2022-06-23 11:14:18 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 11:14:18 INFO  Employee Rest API:45 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 11:15:27 INFO  Employee Rest API:51 - CLoudflare header is cloudflare
+  2022-06-23 11:15:27 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - Thu, 23 Jun 2022 05:45:21 GMT===Date
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - application/json; charset=utf-8===Content-Type
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - chunked===Transfer-Encoding
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - keep-alive===Connection
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - Express===X-Powered-By
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - *===Access-Control-Allow-Origin
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"===Etag
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - 1.1 vegur===Via
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - max-age=14400===Cache-Control
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - HIT===CF-Cache-Status
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - 178===Age
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"===Expect-CT
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=3z%2FufGttQ6ttb0hlwFxo%2FY4M%2BSjI7DLLOWyfa0i6a17FWF3Wh1SacwZC9Kmp1HFdq7pksDpqTKXbn71TWIKnUwRynq%2FT6Ye7rp7YcwsWlVZh2fSXiqbZ0ykTpg%3D%3D"}],"group":"cf-nel","max_age":604800}===Report-To
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - {"success_fraction":0,"report_to":"cf-nel","max_age":604800}===NEL
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - Accept-Encoding===Vary
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - cloudflare===Server
+  2022-06-23 11:15:27 INFO  Employee Rest API:39 - 71faeac75eb8858d-BOM===CF-RAY
+  2022-06-23 11:15:28 INFO  Employee Rest API:39 - gzip===Content-Encoding
+  2022-06-23 11:15:28 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 11:15:28 INFO  Employee Rest API:45 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 11:16:07 INFO  Employee Rest API:51 - CLoudflare header is cloudflare
+  2022-06-23 11:16:07 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Date===Thu, 23 Jun 2022 05:46:00 GMT
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Content-Type===application/json; charset=utf-8
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Transfer-Encoding===chunked
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Connection===keep-alive
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - X-Powered-By===Express
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Access-Control-Allow-Origin===*
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Etag===W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Via===1.1 vegur
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Cache-Control===max-age=14400
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - CF-Cache-Status===HIT
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Age===5940
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2X41KxWbYafoo7s21VK%2BvGgtL6AIaGhvJgP33j6uzJW3KGUVXzY3dkA88Gw0w9vXNnE82tQ95gmzW1vFGIiaTf83yzqpxfH0YdQJv6perqWrueg3AkYl4o2YxA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Vary===Accept-Encoding
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Server===cloudflare
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - CF-RAY===71faebbbbfdd6ecb-BOM
+  2022-06-23 11:16:07 INFO  Employee Rest API:39 - Content-Encoding===gzip
+  2022-06-23 11:16:07 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 11:16:07 INFO  Employee Rest API:45 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 11:17:24 INFO  Employee Rest API:52 - CLoudflare header is cloudflare
+  2022-06-23 11:17:24 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Date===Thu, 23 Jun 2022 05:47:17 GMT
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Content-Type===application/json; charset=utf-8
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Transfer-Encoding===chunked
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Connection===keep-alive
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - X-Powered-By===Express
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Access-Control-Allow-Origin===*
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Etag===W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Via===1.1 vegur
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Cache-Control===max-age=14400
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - CF-Cache-Status===HIT
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Age===294
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=FK%2BAdfMB1n3DhM7mB%2FHx9b875SJSrG3eHd5YvQh4FCPvLTlDZ3Hx0pOVIHDbU%2Ff3bxTrl%2F%2FLJcAqz7Pb07MI3GFrXdSKhUjEypZCjaI1NK3SjhRRqw%2FP%2Fj%2Bmqw%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Vary===Accept-Encoding
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Server===cloudflare
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - CF-RAY===71faed9d0c7084dd-BOM
+  2022-06-23 11:17:24 INFO  Employee Rest API:40 - Content-Encoding===gzip
+  2022-06-23 11:17:24 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 11:17:24 INFO  Employee Rest API:46 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 11:34:38 INFO  Employee Rest API:45 - Status Line is {"name":"morpheus","job":"leader","id":"326","createdAt":"2022-06-23T06:04:32.120Z"}
+  2022-06-23 11:34:38 INFO  Employee Rest API:32 - Status code is 201
+  2022-06-23 11:34:38 INFO  Employee Rest API:38 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 06:08:02 GMT
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Content-Length===84
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Etag===W/"54-zlll21NAZ73sAtaSsEkaB131QIs"
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=MYIkOPHqaazZlxq43aieLU%2FQMUHBYHdhhmsADx9MfeOHRdgOzu3jE2runvD5e2nYyjTDZEXGnD4W%2FDXcKu2vX9cgMzRBpWc3TR8xs6q9WNQhyLvl6wbcZZR3DA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 11:38:09 INFO  Employee Rest API:53 - CF-RAY===71fb0c009fe031c4-BOM
+  2022-06-23 11:38:09 INFO  Employee Rest API:47 - Status Line is {"name":"morpheus","job":"leader","id":"559","createdAt":"2022-06-23T06:08:02.874Z"}
+  2022-06-23 11:38:09 INFO  Employee Rest API:34 - Status code is 201
+  2022-06-23 11:38:09 INFO  Employee Rest API:40 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 06:09:52 GMT
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Content-Length===84
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Etag===W/"54-FNKrD9g2gKE3RBR2WHn4Zih3tt0"
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4JTt4NTVPY%2FvrUt%2FPpyAuIQojx40EHJjOicA6jMR9pYBvLHbsT0cyjJLkuFCg0ZTVz%2F1QCsScEbi8xYfyEy0ftVBLPlLLUfvA655Bmf31c1T9P1uZfHZND1YTg%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 11:39:58 INFO  Employee Rest API:53 - CF-RAY===71fb0eac4ed28537-BOM
+  2022-06-23 11:39:58 INFO  Employee Rest API:59 - Headers is application/json; charset=utf-8
+  2022-06-23 11:39:58 INFO  Employee Rest API:47 - Status Line is {"name":"morpheus","job":"leader","id":"365","createdAt":"2022-06-23T06:09:52.251Z"}
+  2022-06-23 11:39:58 INFO  Employee Rest API:34 - Status code is 201
+  2022-06-23 11:39:58 INFO  Employee Rest API:40 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Date===Thu, 23 Jun 2022 08:25:10 GMT
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Content-Type===application/json; charset=utf-8
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Transfer-Encoding===chunked
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Connection===keep-alive
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - X-Powered-By===Express
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Access-Control-Allow-Origin===*
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Etag===W/"50-3W8cGIFuDrYaj3yDnn47kPVL5wo"
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Via===1.1 vegur
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - CF-Cache-Status===DYNAMIC
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=cLLLpxcjY9VyxGHcfsdh2sj1bCLiTnirB%2B82pNTqxN%2F5XhDS07zUMekLew8wbMLW8RGvZGkQA8JzcnXJBJM1h85DoPF5vTF0fOUE3pfU0bHX3dORkOKC4%2BF%2Fbg%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Vary===Accept-Encoding
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Server===cloudflare
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - CF-RAY===71fbd4e0def52e16-BOM
+  2022-06-23 13:55:16 INFO  Employee Rest API:47 - Content-Encoding===gzip
+  2022-06-23 13:55:16 INFO  Employee Rest API:35 - Status code is 200
+  2022-06-23 13:55:16 INFO  Employee Rest API:41 - Status line is HTTP/1.1 200 OK
+  2022-06-23 13:55:17 INFO  Employee Rest API:53 - Response body is {"name":"morpheus","job":"zion resident","updatedAt":"2022-06-23T08:25:10.739Z"}
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Date===Thu, 23 Jun 2022 08:29:41 GMT
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Content-Type===application/json; charset=utf-8
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Transfer-Encoding===chunked
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Connection===keep-alive
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - X-Powered-By===Express
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Access-Control-Allow-Origin===*
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Etag===W/"50-idCOa71sqvEhfAGx/DzZUN9+qzU"
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Via===1.1 vegur
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - CF-Cache-Status===DYNAMIC
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Rh%2FzgDxGlc3qtc1HZdTIHyLTSSjfm4%2FmGFI9RsveYwnRVobEMCzNfBCnNNmD0lYnxDB0iMiGX2E%2BTShvVrySUSm44IzxiabyGqqAtclbdROOwKzpqQexAowWIA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Vary===Accept-Encoding
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Server===cloudflare
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - CF-RAY===71fbdb7cccb63194-BOM
+  2022-06-23 13:59:47 INFO  Employee Rest API:47 - Content-Encoding===gzip
+  2022-06-23 13:59:47 INFO  Employee Rest API:60 - Particular header is Express
+  2022-06-23 13:59:47 INFO  Employee Rest API:35 - Status code is 200
+  2022-06-23 13:59:47 INFO  Employee Rest API:41 - Status line is HTTP/1.1 200 OK
+  2022-06-23 13:59:47 INFO  Employee Rest API:53 - Response body is {"name":"morpheus","job":"zion resident","updatedAt":"2022-06-23T08:29:41.478Z"}
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Date===Thu, 23 Jun 2022 08:30:41 GMT
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Content-Type===application/json; charset=utf-8
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Transfer-Encoding===chunked
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Connection===keep-alive
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - X-Powered-By===Express
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Access-Control-Allow-Origin===*
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Etag===W/"50-S3kdOoSKZuvmWQIn8w9Fprj3ydc"
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Via===1.1 vegur
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - CF-Cache-Status===DYNAMIC
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=wXvkaQVT42G4e9LgDxFqpweZsuiissslnVe203%2FqRtN16CKseYNBOHmproxigWE9Ej07hIenot5vE2GbvvnKLJJ3rpFLA%2BcBp6RGOrrGJLq5VSav453M%2BJT%2FYQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Vary===Accept-Encoding
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Server===cloudflare
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - CF-RAY===71fbdcf228256eca-BOM
+  2022-06-23 14:00:47 INFO  Employee Rest API:47 - Content-Encoding===gzip
+  2022-06-23 14:00:47 INFO  Employee Rest API:60 - Particular header is Express
+  2022-06-23 14:00:47 INFO  Employee Rest API:35 - Status code is 200
+  2022-06-23 14:00:47 INFO  Employee Rest API:41 - Status line is HTTP/1.1 200 OK
+  2022-06-23 14:00:47 INFO  Employee Rest API:53 - Response body is {"name":"morpheus","job":"zion resident","updatedAt":"2022-06-23T08:30:41.274Z"}
+  2022-06-23 14:28:56 INFO  Employee Rest API:52 - CLoudflare header is cloudflare
+  2022-06-23 14:28:56 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Date===Thu, 23 Jun 2022 08:58:50 GMT
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Content-Type===application/json; charset=utf-8
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Transfer-Encoding===chunked
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Connection===keep-alive
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - X-Powered-By===Express
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Access-Control-Allow-Origin===*
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Etag===W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Via===1.1 vegur
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Cache-Control===max-age=14400
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - CF-Cache-Status===HIT
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Age===3084
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=C4To0es1BgTF7sHVMCRu8tYJS2hwDlYdWykD2sokHdxRRiUYn5PAHw9DN1%2BHJXTNYJ3iVpmzCNva%2Bj%2Bu6oSdPhP6cp4kUIhaTLT72nSZSIVSLKj63uuEmSl2Aw%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Vary===Accept-Encoding
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Server===cloudflare
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - CF-RAY===71fc062f28043227-BOM
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Content-Encoding===gzip
+  2022-06-23 14:28:56 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 14:28:56 INFO  Employee Rest API:46 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 08:58:50 GMT
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Content-Length===84
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Etag===W/"54-cGH1TRIFDzRiU66OTEAHZptmuMI"
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DUe6aM%2F5LiMaJ3qZDOU83LFkP9I30PlrqnufiNE5SEjocO%2FoKmvA9Nu83JcoCHRokrGqNZ%2FOS4h2cn3KV28dUMJlD%2F7Ba0MUKiBD0tEjIleerKP43HCv0XEOFA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 14:28:56 INFO  Employee Rest API:53 - CF-RAY===71fc06318fcc84fb-BOM
+  2022-06-23 14:28:56 INFO  Employee Rest API:59 - Headers is application/json; charset=utf-8
+  2022-06-23 14:28:56 INFO  Employee Rest API:47 - Status Line is {"name":"morpheus","job":"leader","id":"838","createdAt":"2022-06-23T08:58:50.684Z"}
+  2022-06-23 14:28:56 INFO  Employee Rest API:34 - Status code is 201
+  2022-06-23 14:28:56 INFO  Employee Rest API:40 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Date===Thu, 23 Jun 2022 08:58:51 GMT
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Content-Type===application/json; charset=utf-8
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Transfer-Encoding===chunked
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Connection===keep-alive
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - X-Powered-By===Express
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Access-Control-Allow-Origin===*
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Etag===W/"50-d89WX4U96ebwH7T7FgYNZOVIFWM"
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Via===1.1 vegur
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - CF-Cache-Status===DYNAMIC
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=enG2W8eJhTr7dswgZQsY61VK7%2BVRK0ITvoSKiF7aXpETHXfdwqBM6fjNrDWNgPDDKza4QwT1dambii4wRC59nsEMURLZuo6A7ZxmoCP1UMZGu3QgGIkFEwHeqw%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Vary===Accept-Encoding
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Server===cloudflare
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - CF-RAY===71fc0634ce2d84b9-BOM
+  2022-06-23 14:28:57 INFO  Employee Rest API:47 - Content-Encoding===gzip
+  2022-06-23 14:28:57 INFO  Employee Rest API:60 - Particular header is Express
+  2022-06-23 14:28:57 INFO  Employee Rest API:35 - Status code is 200
+  2022-06-23 14:28:57 INFO  Employee Rest API:41 - Status line is HTTP/1.1 200 OK
+  2022-06-23 14:28:57 INFO  Employee Rest API:53 - Response body is {"name":"morpheus","job":"zion resident","updatedAt":"2022-06-23T08:58:51.212Z"}
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Date===Thu, 23 Jun 2022 09:47:59 GMT
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Content-Type===application/json; charset=utf-8
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Content-Length===36
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Connection===keep-alive
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - X-Powered-By===Express
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Access-Control-Allow-Origin===*
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Etag===W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Via===1.1 vegur
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - CF-Cache-Status===DYNAMIC
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=AAYOZtDqWq6QVjvMHeS5qW1TfmEbsr9lfoGUgtU3TV%2FwQZD6usUd4WNcfjS2d7WNeKMkOZKa3b%2FTSiT%2FScJafG4lRKrTRVsiuZ9fNpQN4V2jG%2BShfkIq57gBlQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - Server===cloudflare
+  2022-06-23 15:18:05 INFO  Employee Rest API:50 - CF-RAY===71fc4e2f0dcc84b9-BOM
+  2022-06-23 15:18:05 INFO  Employee Rest API:44 - Response body is {"id":4,"token":"QpwL5tke4Pnpja7X4"}
+  2022-06-23 15:18:05 INFO  Employee Rest API:33 - Status  code is 200
+  2022-06-23 15:18:05 INFO  Employee Rest API:39 - Status line is HTTP/1.1 200 OK
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Date===Thu, 23 Jun 2022 09:54:24 GMT
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Content-Type===application/json; charset=utf-8
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Content-Length===36
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Connection===keep-alive
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - X-Powered-By===Express
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Access-Control-Allow-Origin===*
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Etag===W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Via===1.1 vegur
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - CF-Cache-Status===DYNAMIC
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=DXVFR%2FrAYfjiwUWBpumEU5PL0%2FmI82CvJQRE4bYLShJv3efa9dzuEvgy1IEPen8p1TZoubH%2FVxhjJlPntpR1f9%2Bl4yp6Shd94xb%2B6tnnJipWMfIfuRpBVU9Tig%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - Server===cloudflare
+  2022-06-23 15:24:30 INFO  Employee Rest API:52 - CF-RAY===71fc5793ae3831db-BOM
+  2022-06-23 15:24:30 INFO  Employee Rest API:58 - Particular header X-Powered-By is Express
+  2022-06-23 15:24:30 INFO  Employee Rest API:44 - Response body is {"id":4,"token":"QpwL5tke4Pnpja7X4"}
+  2022-06-23 15:24:30 INFO  Employee Rest API:33 - Status  code is 200
+  2022-06-23 15:24:30 INFO  Employee Rest API:39 - Status line is HTTP/1.1 200 OK
+  2022-06-23 16:52:31 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 16:54:33 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 16:55:59 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 16:57:54 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 16:59:14 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 16:59:54 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 17:03:31 INFO  Employee Rest API:19 - ======TC002_PostEmployee======
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 11:33:29 GMT
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Content-Length===84
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Etag===W/"54-utOnfABlXw3Py3gYGtlE5AR1NN8"
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Eobr07K%2F6%2FY9naLYHJ%2F9wBu%2FAMtyT%2BYjsYQaKtaS6blcj0CoEBVwi%2F%2BVfrxs%2B87ig4Qf9Tf4Wd0jZVZwngp3iBpcU4r0AnYrrzI%2Fv9tBDxx8zqO55TNen4MKYA%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 17:03:35 INFO  Employee Rest API:53 - CF-RAY===71fce8b9c92c84ce-BOM
+  2022-06-23 17:03:35 INFO  Employee Rest API:59 - Headers is application/json; charset=utf-8
+  2022-06-23 17:03:35 INFO  Employee Rest API:47 - Status Line is {"name":"morpheus","job":"leader","id":"456","createdAt":"2022-06-23T11:33:29.452Z"}
+  2022-06-23 17:03:35 INFO  Employee Rest API:34 - Status code is 201
+  2022-06-23 17:03:35 INFO  Employee Rest API:40 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 17:04:11 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 17:05:48 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 17:07:50 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 17:13:12 INFO  Employee Rest API:13 - ======TC001_GetEmployee======
+  2022-06-23 17:15:08 INFO  Employee Rest API:14 - ======TC006_GetEmployee======
+  2022-06-23 17:16:16 INFO  Employee Rest API:14 - ======TC006_GetEmployee======
+  2022-06-23 17:17:13 INFO  Employee Rest API:14 - ======TC006_GetEmployee======
+  2022-06-23 17:17:54 INFO  Employee Rest API:14 - ======TC006_GetEmployee======
+  2022-06-23 17:28:40 INFO  Employee Rest API:18 - ======TC001_GetEmployee======
+  2022-06-23 17:28:45 INFO  Employee Rest API:52 - CLoudflare header is cloudflare
+  2022-06-23 17:28:45 INFO  Employee Rest API:27 - Status code is 200
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Date===Thu, 23 Jun 2022 11:58:39 GMT
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Content-Type===application/json; charset=utf-8
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Transfer-Encoding===chunked
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Connection===keep-alive
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - X-Powered-By===Express
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Access-Control-Allow-Origin===*
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Etag===W/"406-ut0vzoCuidvyMf8arZpMpJ6ZRDw"
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Via===1.1 vegur
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Cache-Control===max-age=14400
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - CF-Cache-Status===HIT
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Age===972
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=RlvM9%2BXNENkYabIKUc4gxdL%2FadC6LKsoIJA7gS7sKMrKCnP7vyenF1YiT79NNGVI5xB%2FHp5LYZ6oHMK81xkGoZE%2Bqs8Z5Xtxb4j1nh31kk9Owk3Nj1074LScvQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Vary===Accept-Encoding
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Server===cloudflare
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - CF-RAY===71fd0d961e9184e3-BOM
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Content-Encoding===gzip
+  2022-06-23 17:28:45 INFO  Employee Rest API:33 - Status line is HTTP/1.1 200 OK
+  2022-06-23 17:28:45 INFO  Employee Rest API:46 - Response body is {"page":2,"per_page":6,"total":12,"total_pages":2,"data":[{"id":7,"email":"michael.lawson@reqres.in","first_name":"Michael","last_name":"Lawson","avatar":"https://reqres.in/img/faces/7-image.jpg"},{"id":8,"email":"lindsay.ferguson@reqres.in","first_name":"Lindsay","last_name":"Ferguson","avatar":"https://reqres.in/img/faces/8-image.jpg"},{"id":9,"email":"tobias.funke@reqres.in","first_name":"Tobias","last_name":"Funke","avatar":"https://reqres.in/img/faces/9-image.jpg"},{"id":10,"email":"byron.fields@reqres.in","first_name":"Byron","last_name":"Fields","avatar":"https://reqres.in/img/faces/10-image.jpg"},{"id":11,"email":"george.edwards@reqres.in","first_name":"George","last_name":"Edwards","avatar":"https://reqres.in/img/faces/11-image.jpg"},{"id":12,"email":"rachel.howell@reqres.in","first_name":"Rachel","last_name":"Howell","avatar":"https://reqres.in/img/faces/12-image.jpg"}],"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+  2022-06-23 17:28:45 INFO  Employee Rest API:19 - ======TC002_PostEmployee======
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 11:58:39 GMT
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Content-Length===84
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Etag===W/"54-TJIDnlqhyatXKLA2x8gtFNjbi/g"
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Oa03YSV4QmJV3G4Ij5ZTM4FgSlMGCFB5Ob6X6Z%2FzqnskQyn3YoMUsiCeK3V9Nz7F5XlgDiyKOP0inUfeOH6wXUxxm1Zldv0fCl522OYAVdnAVFKdar6uLi59Rg%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 17:28:45 INFO  Employee Rest API:53 - CF-RAY===71fd0d998a438504-BOM
+  2022-06-23 17:28:45 INFO  Employee Rest API:59 - Headers is application/json; charset=utf-8
+  2022-06-23 17:28:45 INFO  Employee Rest API:47 - Status Line is {"name":"morpheus","job":"leader","id":"184","createdAt":"2022-06-23T11:58:39.810Z"}
+  2022-06-23 17:28:45 INFO  Employee Rest API:34 - Status code is 201
+  2022-06-23 17:28:45 INFO  Employee Rest API:40 - Status Line is HTTP/1.1 201 Created
+  2022-06-23 17:28:45 INFO  Employee Rest API:19 - ======TC003_PutEmployee======
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Date===Thu, 23 Jun 2022 11:58:40 GMT
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Content-Type===application/json; charset=utf-8
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Transfer-Encoding===chunked
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Connection===keep-alive
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - X-Powered-By===Express
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Access-Control-Allow-Origin===*
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Etag===W/"50-JH/tyoIe9GoWLysKiwIcyAU1444"
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Via===1.1 vegur
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - CF-Cache-Status===DYNAMIC
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=TwcE6LwiYATI3LeHRPOueQ3w4jjL8KjpyfMF6h4bqQEpMaRt%2BffwCTa6zAV9L5CQjb2K80qZ285M4mlWqHCWnW5hq5nAB%2FWDs2WkpKY8DRVBmSRfwMPSV1mz3A%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Vary===Accept-Encoding
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Server===cloudflare
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - CF-RAY===71fd0d9cab7c2e23-BOM
+  2022-06-23 17:28:46 INFO  Employee Rest API:47 - Content-Encoding===gzip
+  2022-06-23 17:28:46 INFO  Employee Rest API:60 - Particular header is Express
+  2022-06-23 17:28:46 INFO  Employee Rest API:35 - Status code is 200
+  2022-06-23 17:28:46 INFO  Employee Rest API:41 - Status line is HTTP/1.1 200 OK
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Response body is {"name":"morpheus","job":"zion resident","updatedAt":"2022-06-23T11:58:40.313Z"}
+  2022-06-23 17:28:46 INFO  Employee Rest API:18 - ======TC004_PostEmployee======
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Date===Thu, 23 Jun 2022 11:58:40 GMT
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Content-Type===application/json; charset=utf-8
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Content-Length===36
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Connection===keep-alive
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - X-Powered-By===Express
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Access-Control-Allow-Origin===*
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Etag===W/"24-4iP0za1geN2he+ohu8F0FhCjLks"
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Via===1.1 vegur
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - CF-Cache-Status===DYNAMIC
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Expect-CT===max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Report-To==={"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zr5du5px1xTULii%2FpEhKB34c6wsjcn2lrdWckPpddcsfUka7h90Y5uRtaOYku5GCmTZt80%2FxSpxqt7gh0nfNeTW2opuHwdB1%2BfL4ODeJ5fZEc2KIQV7U8jxErw%3D%3D"}],"group":"cf-nel","max_age":604800}
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - NEL==={"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - Server===cloudflare
+  2022-06-23 17:28:46 INFO  Employee Rest API:53 - CF-RAY===71fd0d9fec9285eb-BOM
+  2022-06-23 17:28:46 INFO  Employee Rest API:59 - Particular header X-Powered-By is Express
+  2022-06-23 17:28:46 INFO  Employee Rest API:45 - Response body is {"id":4,"token":"QpwL5tke4Pnpja7X4"}
+  2022-06-23 17:28:46 INFO  Employee Rest API:34 - Status  code is 200
+  2022-06-23 17:28:46 INFO  Employee Rest API:40 - Status line is HTTP/1.1 200 OK
+  2022-06-23 17:28:46 INFO  Employee Rest API:13 - ======TC005_PostEmployee======
+  2022-06-23 17:28:48 INFO  Employee Rest API:14 - ======TC006_GetEmployee======
+  
